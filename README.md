@@ -1,2 +1,2 @@
 # SillyMouse
-Mouse for hackclub squek
+Mouse for hackclub squeak
